@@ -1,5 +1,5 @@
 # application title
-- author: 
+## author: 
   * id: 66114540261
   * name: first last
 - technology: [pygame/streamlit]
